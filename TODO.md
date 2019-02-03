@@ -9,6 +9,7 @@
 - add member to org
 - invite member to org
 - email notification to member about joining an org
+- list all members in the org
 - remove member from org
 - delete member data (GDPR)
 - backup/export one org
