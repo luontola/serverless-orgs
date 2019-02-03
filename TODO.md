@@ -11,3 +11,5 @@
 - email notification to member about joining an org
 - remove member from org
 - delete member data (GDPR)
+- backup/export one org
+- restore one org, must not trigger resending emails
