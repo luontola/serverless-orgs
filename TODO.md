@@ -1,0 +1,13 @@
+
+- deploy Lambda hello world
+- deploy DynamoDB hello world
+- event store, individual streams
+- event store, global revision for total order
+- create org
+- list all orgs
+- authentication
+- add member to org
+- invite member to org
+- email notification to member about joining an org
+- remove member from org
+- delete member data (GDPR)
